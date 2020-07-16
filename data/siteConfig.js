@@ -30,10 +30,10 @@ module.exports = {
       label: 'Blog',
       url: '/',
     },
-    {
-      label: 'About',
-      url: '/about-gatsby-starter-morning-dew',
-    },
+    // {
+    //   label: 'About',
+    //   url: '/about-gatsby-starter-morning-dew',
+    // },
 
   ],
   // Footer information (ex: Github, Netlify...)
