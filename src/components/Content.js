@@ -155,9 +155,9 @@ class Content extends React.Component {
 
     return (
       <section>
-        {(tags || date || translations) && (
+        {/* {(tags || date || translations) && (
           <ContentHeader date={date} tags={tags} translations={translations} />
-        )}
+        )} */}
 
         <ContentBody>
           <MDXRenderer>{content}</MDXRenderer>

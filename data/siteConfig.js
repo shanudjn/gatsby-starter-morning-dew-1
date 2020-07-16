@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'gatby-starter-morning-dew',
+  siteTitle: 'gatby-starter-morning-de',
   siteDescription: 'A Gatsby theme/starter to build lightning-fast websites',
   authorName: 'Shahazad',
   twitterUsername: 'md_shanudjn',
@@ -20,7 +20,7 @@ module.exports = {
   background_color: '#ffffff',
   theme_color: '#222222',
   display: 'standalone',
-  icon: 'content/images/baymax.png',
+  icon: 'content/images/batman2.png',
   postsPerPage: 6,
   disqusShortname: 'maxpou',
   headerTitle: 'International Brat',
