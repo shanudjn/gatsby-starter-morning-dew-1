@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: 'gatsby-starter-morning-dew',
+  siteTitle: 'gatby-starter-morning-dew',
   siteDescription: 'A Gatsby theme/starter to build lightning-fast websites',
-  authorName: 'Maxence Poutord',
-  twitterUsername: '_maxpou',
+  authorName: 'Shahazad',
+  twitterUsername: 'md_shanudjn',
   authorAvatar: 'avatar.jpeg', // file in content/images
   defaultLang: 'en', // show flag if lang is not default. Leave empty to enable flags in post lists
   authorDescription: `
@@ -15,7 +15,7 @@ module.exports = {
   disqusSiteUrl: 'https://www.maxpou.fr/',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
-  siteCover: 'cover-baymax.jpeg', // file in content/images
+  siteCover: 'cover.jpg', // file in content/images
   googleAnalyticsId: 'UA-67868977-2',
   background_color: '#ffffff',
   theme_color: '#222222',
@@ -23,8 +23,8 @@ module.exports = {
   icon: 'content/images/baymax.png',
   postsPerPage: 6,
   disqusShortname: 'maxpou',
-  headerTitle: 'gatsby-starter-morning-dew',
-  headerLinksIcon: 'baymax.png', //  (leave empty to disable: '')
+  headerTitle: 'International Brat',
+  headerLinksIcon: 'batman2.png', //  (leave empty to disable: '')
   headerLinks: [
     {
       label: 'Blog',
@@ -34,10 +34,7 @@ module.exports = {
       label: 'About',
       url: '/about-gatsby-starter-morning-dew',
     },
-    {
-      label: 'Installation',
-      url: '/how-to-install',
-    },
+
   ],
   // Footer information (ex: Github, Netlify...)
   websiteHost: {
@@ -67,15 +64,15 @@ module.exports = {
       links: [
         {
           label: 'GitHub',
-          url: 'https://github.com/maxpou/gatsby-starter-morning-dew',
+          url: 'https://github.com/',
         },
         {
-          label: 'Website',
-          url: 'https://www.maxpou.fr',
+          label: 'Instagram',
+          url: 'https://www.instagram.com/__shahazad__/',
         },
         {
           label: 'Twitter',
-          url: 'https://twitter.com/_maxpou',
+          url: 'https://twitter.com/md_shanudjn',
         },
       ],
     },
