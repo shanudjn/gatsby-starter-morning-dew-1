@@ -3,13 +3,11 @@ module.exports = {
   siteDescription: 'A Gatsby theme/starter to build lightning-fast websites',
   authorName: 'Shahazad',
   twitterUsername: 'md_shanudjn',
-  authorAvatar: 'avatar.jpeg', // file in content/images
+  authorAvatar: 'ripu.jpg', // file in content/images
   defaultLang: 'en', // show flag if lang is not default. Leave empty to enable flags in post lists
   authorDescription: `
-  For the last decade, Maxence Poutord has worked with a variety of web technologies. He is currently focused on front-end development.
-  On his day to day job, he is working as a senior front-end engineer at VSware. He is also an occasional tech speaker and a mentor.
-  As a digital nomad, he is living where the WiFi and sun are 😎 <br>
-  Do you want to know more? <a href="https://www.maxpou.fr/about" rel="noopener" target="_blank">Visit my website!</a>
+  From the time he was born, Ripunjoy Buragohain has been a fan of Hera Pheri. He is currently focused on tranferring his intelligence to mere mortals through this blog. He is also an occasional motivational speaker and a mentor.
+  
   `,
   siteUrl: 'https://maxpou.github.io/',
   disqusSiteUrl: 'https://www.maxpou.fr/',
