@@ -9,7 +9,7 @@ module.exports = {
   From the time he was born, Ripunjoy Buragohain has been a fan of Hera Pheri. 
   He is currently focused on tranferring his intelligence to mere mortals through this blog. 
   He is also an occasional motivational speaker and a mentor.`,
-  siteUrl: 'https://maxpou.github.io/',
+  siteUrl: 'http://shanudjn.pythonanywhere.com/',
   disqusSiteUrl: '',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
