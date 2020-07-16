@@ -1,16 +1,16 @@
 module.exports = {
-  siteTitle: 'gatby-starter-morning-de',
-  siteDescription: 'A Gatsby theme/starter to build lightning-fast websites',
+  siteTitle: 'International Brat Speaks',
+  siteDescription: 'Just shut the f*uck up and listen to me!',
   authorName: 'Shahazad',
   twitterUsername: 'md_shanudjn',
   authorAvatar: 'ripu.jpg', // file in content/images
   defaultLang: 'en', // show flag if lang is not default. Leave empty to enable flags in post lists
   authorDescription: `
-  From the time he was born, Ripunjoy Buragohain has been a fan of Hera Pheri. He is currently focused on tranferring his intelligence to mere mortals through this blog. He is also an occasional motivational speaker and a mentor.
-  
-  `,
+  From the time he was born, Ripunjoy Buragohain has been a fan of Hera Pheri. 
+  He is currently focused on tranferring his intelligence to mere mortals through this blog. 
+  He is also an occasional motivational speaker and a mentor.`,
   siteUrl: 'https://maxpou.github.io/',
-  disqusSiteUrl: 'https://www.maxpou.fr/',
+  disqusSiteUrl: '',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
   siteCover: 'cover.jpg', // file in content/images
@@ -20,7 +20,7 @@ module.exports = {
   display: 'standalone',
   icon: 'content/images/batman2.png',
   postsPerPage: 6,
-  disqusShortname: 'maxpou',
+  disqusShortname: '',
   headerTitle: 'International Brat',
   headerLinksIcon: 'batman2.png', //  (leave empty to disable: '')
   headerLinks: [
@@ -47,14 +47,14 @@ module.exports = {
           label: 'Blog',
           url: '/',
         },
-        {
-          label: 'About',
-          url: '/about-gatsby-starter-morning-dew',
-        },
-        {
-          label: 'Installation',
-          url: '/how-to-install',
-        },
+        // {
+        //   label: 'About',
+        //   url: '',
+        // },
+        // {
+        //   label: 'Installation',
+        //   url: '/how-to-install',
+        // },
       ],
     },
     {
