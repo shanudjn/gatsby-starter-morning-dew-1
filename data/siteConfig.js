@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'International Brat Speaks',
   siteDescription: 'Just shut the f*uck up and listen to me!',
   authorName: 'Shahazad',
-  twitterUsername: 'md_shanudjn',
+  twitterUsername: '',
   authorAvatar: 'ripu.jpg', // file in content/images
   defaultLang: 'en', // show flag if lang is not default. Leave empty to enable flags in post lists
   authorDescription: `
@@ -66,11 +66,11 @@ module.exports = {
         },
         {
           label: 'Instagram',
-          url: 'https://www.instagram.com/__shahazad__/',
+          url: 'https://www.instagram.com/',
         },
         {
           label: 'Twitter',
-          url: 'https://twitter.com/md_shanudjn',
+          url: 'https://twitter.com/',
         },
       ],
     },
